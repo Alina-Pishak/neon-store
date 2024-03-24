@@ -30,6 +30,7 @@ const ProductsListItem = ({ sign }) => {
         <CardActions>
           <Button
             size="small"
+            variant="contained"
             sx={{ bgcolor: "primary.main", color: "#fff" }}
             onClick={() => setShowModal(true)}
           >

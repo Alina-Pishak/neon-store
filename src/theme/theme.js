@@ -4,7 +4,10 @@ import { deepPurple } from "@mui/material/colors";
 export const theme = createTheme({
   palette: {
     primary: {
-      main: deepPurple["900"],
+      main: deepPurple["800"],
+    },
+    secondary: {
+      main: deepPurple["A400"],
     },
   },
 });
