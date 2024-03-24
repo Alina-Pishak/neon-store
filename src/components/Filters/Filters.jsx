@@ -49,7 +49,6 @@ const Filters = () => {
           onChange={setChangeFilters}
           name="category"
         >
-          {/* <MenuItem value={""}>All</MenuItem> */}
           {categories.map((category) => (
             <MenuItem key={category} value={category}>
               {category}

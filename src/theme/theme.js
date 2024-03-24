@@ -6,8 +6,5 @@ export const theme = createTheme({
     primary: {
       main: deepPurple["800"],
     },
-    secondary: {
-      main: deepPurple["A400"],
-    },
   },
 });
