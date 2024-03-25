@@ -13,10 +13,10 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/Alina-Pishak/medicine-delivery-app.git
+$ git clone https://github.com/Alina-Pishak/neon-store.git
 
 # Go into the repository
-$ cd medicine-delivery-app
+$ cd neon-store
 
 # Install dependencies
 $ npm install
